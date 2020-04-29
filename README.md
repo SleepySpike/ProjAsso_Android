@@ -14,11 +14,13 @@ Il s'agit d'un projet Android, utilisant le Java // 04.2020
 
 Création d'une application Android Java destinées aux adhérents d'associations.
 
-Une association propose diverses sorties à ses adhérents qui peuvent s'y inscrire ou non.
+Une association propose diverses sorties à ses adhérents qui peuvent s'y inscrire ou non, moyennant une contribution financière.
 Un adhérent ne peut être que dans une seule association.
+
 L'application doit lui permettre de :
 * Se connecter à son compte
 * Modifier ses informations personnelles
+* Créditer son compte
 * Afficher la liste des sorties proposées par son association
 * Afficher le détail d'un sortie
 * S'y inscrire
